@@ -14,7 +14,7 @@ const Profile: React.FC = () => {
         {/* Avatar & Name */}
         <div className="px-8 pb-8 relative">
             <div className="mt-8 text-center">
-                <h1 className="text-3xl font-bold text-white">Nama Lengkap</h1>
+                <h1 className="text-3xl font-bold text-white">Chicochaesa Elang Z</h1>
                 <p className="text-slate-400 font-medium mt-1">Mahasiswa</p>
             </div>
 
@@ -27,7 +27,7 @@ const Profile: React.FC = () => {
                     </div>
                     <div>
                         <div className="text-[10px] uppercase tracking-widest text-slate-500 font-bold">NIM</div>
-                        <div className="text-lg font-bold text-white">1234567890</div>
+                        <div className="text-lg font-bold text-white">21120123140134</div>
                     </div>
                 </div>
 
@@ -56,7 +56,7 @@ const Profile: React.FC = () => {
 
             {/* Social Links */}
             <div className="mt-8 flex gap-4 justify-center">
-                <a href="https://instagram.com" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold hover:opacity-90 transition-opacity shadow-lg shadow-purple-900/20">
+                <a href="https://instagram.com/eaglemyboy" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold hover:opacity-90 transition-opacity shadow-lg shadow-purple-900/20">
                     <FaInstagram className="text-xl" /> Instagram
                 </a>
                 <a href="https://wa.me/81213206303" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-green-600 text-white font-bold hover:bg-green-500 transition-colors shadow-lg shadow-green-900/20">
