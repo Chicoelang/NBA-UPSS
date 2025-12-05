@@ -59,7 +59,7 @@ const Profile: React.FC = () => {
                 <a href="https://instagram.com" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold hover:opacity-90 transition-opacity shadow-lg shadow-purple-900/20">
                     <FaInstagram className="text-xl" /> Instagram
                 </a>
-                <a href="https://wa.me/" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-green-600 text-white font-bold hover:bg-green-500 transition-colors shadow-lg shadow-green-900/20">
+                <a href="https://wa.me/81213206303" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-green-600 text-white font-bold hover:bg-green-500 transition-colors shadow-lg shadow-green-900/20">
                     <FaWhatsapp className="text-xl" /> WhatsApp
                 </a>
             </div>
